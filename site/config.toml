@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "DeRosi.com Homepage"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
