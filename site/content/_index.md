@@ -1,6 +1,7 @@
 ---
-title: DeRosi.com is coming soon
-subtitle: When I have time I'll write something nice here
+title: Coming Soon
+subtitle: This is work in progress. See you later. Meanwhile, enjoy some coffee
+  dummy content.
 image: img/products-grid2.jpg
 blurb:
   heading: About
